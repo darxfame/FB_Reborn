@@ -1,0 +1,3 @@
+M190 S0
+M109 S0
+START_PRINT EXTRUDER_TEMP={material_print_temperature_layer_0} BED_TEMP={material_bed_temperature_layer_0} MESH_DO={material_bed_temperature_layer_0}
